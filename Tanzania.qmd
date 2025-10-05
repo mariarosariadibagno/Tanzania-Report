@@ -1,0 +1,102 @@
+---
+title: "Tanzania Pension Reform Program"
+subtitle: "Structuring a Development Policy Operation"
+author:
+  name: "Bocconi University"
+  affiliations: "MSc Politics and Policy Analysis"
+format:
+  revealjs:
+    theme: simple
+    transition: fade
+    slide-number: c/t
+    width: 1050
+    height: 700
+    fontsize: 24pt
+    footer: "Public Economics — MSc Politics and Policy Analysis, Bocconi University"
+    embed-resources: true   # <— stays in YAML (top of file)
+resources:
+  - images/**
+css: styles.css
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
+## Background and Context
+- **5 Pension Funds:** NSSF, PSPF, PPF, LAPF, GEPF  
+- **Coverage:** Only 6.5% of the workforce  
+- **PSPF Deficit:** Caused by unpaid pre-1999 liabilities  
+- **Systemic Issues:** Inefficiency, poor coordination, inequitable benefits  
+- **2014 Harmonization Rules:** Introduced to unify parameters  
+  - Accrual rate  
+  - Lump-sum limit  
+  - Minimum pension floor
+
+## Key Challenges (Diagnosis)
+
+- **Financial sustainability**: growing deficits, pre-1999 liabilities.
+- **Efficiency**: fragmentation across five funds.
+- **Benefit design**: excessive lump-sum withdrawals.
+- **Coverage** :  exclusion of informal sector and vulnerable groups.
+
+## The DPO Logic
+- **DPO** = budget support linked to reforms
+- **Prior actions**: binding reforms before disbursement.
+- **Triggers** : next steps for subsequent DPOs.
+- Reforms sequenced from *soft* → *hard* (institutional setup → retirement age increases).
+
+## Proposed Reform Pillars Table
+```{r, echo=FALSE, out.width='80%', fig.align='center'}
+knitr::include_graphics("images/table.png")
+```
+
+## Pillar 4 – Expand Coverage and Inclusion
+
+**Objective:** Extend pension protection beyond the small formal sector and reduce old-age poverty.  
+
+| | **Reform Step** |
+|--|----------------|
+| **DPO-I Prior Action** | Approve policy framework for voluntary schemes targeting informal workers. |
+| **DPO-II Trigger** | Pilot voluntary enrollment mechanisms via mobile payments and ID systems. |
+| **DPO-III Trigger** | Expand TASAF social pension and integrate informal workers into national coverage. |
+| **Outcome Indicator** | Coverage rises from 6.5% → 12% of workforce. |
+
+
+## Sequencing and Political Economy
+
+- **Short term (soft)**: Harmonization, lump-sum limit, studies.
+- **Medium term**: Apply new rules, begin consolidation.
+- **Long term (hard)**: Raise retirement age, finalize merger, close PSPF gap.
+
+*“Reform success depends on government capacity, stakeholder buy-in, and managing political resistance.”*
+
+## Expected Outcomes
+
+- Improved fund solvency (reduced liabilities).
+- Streamlined administration and better governance.
+- Lifetime income protection through annuities.
+- Broader and fairer coverage.
+
+## Conclusion
+
+**Key takeaway:**  
+
+Pension reform in Tanzania requires balancing fiscal sustainability, political feasibility, and social equity over time.
+
+**Open questions:**
+
+ - How can fiscal sustainability be achieved *without undermining equity*?
+ 
+ - Should **harmonization** precede **consolidation**, or can both move in parallel?
+ 
+ - What are the risks of *delaying hard reforms*?
+ 
+ - How can international actors maintain reform momentum?
+
+```{r}
+
+```
+
+
