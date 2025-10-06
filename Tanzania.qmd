@@ -33,13 +33,19 @@ execute:
   - Accrual rate  
   - Lump-sum limit  
   - Minimum pension floor
-
+  
 ## Key Challenges (Diagnosis)
 
 - **Financial sustainability**: growing deficits, pre-1999 liabilities.
 - **Efficiency**: fragmentation across five funds.
 - **Benefit design**: excessive lump-sum withdrawals.
 - **Coverage** :  exclusion of informal sector and vulnerable groups.
+
+## Table Overview
+
+```{r, echo=FALSE, out.width='150%', fig.align='center'}
+knitr::include_graphics("images/tab.png")
+```
 
 ## The DPO Logic
 - **DPO** = budget support linked to reforms
